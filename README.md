@@ -21,8 +21,8 @@ Bu proje, E-Logo API'sine bağlanarak kullanıcı girişini test etmek için bas
 
 1. Projeyi klonlayın veya dosyaları sunucunuza yükleyin:
    ```bash
-   git clone <repository-url>
-   cd boylu-elogo-bulk-main
+   git clone https://github.com/berkeboylu/boylu-elogo-login-tester/
+   cd boylu-elogo-login-tester
    ```
 
 2. Web sunucusunun document root'una yerleştirin (örneğin `htdocs/` veya `www/` klasörü).
